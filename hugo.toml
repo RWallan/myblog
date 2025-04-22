@@ -1,0 +1,37 @@
+baseURL = 'https://example.org/'
+languageCode = 'pt-BR'
+title = 'Tempestade Mental do Richard'
+theme = 'anubis2'
+defaultContentLanguage = 'pt'
+rssLimit = 30
+
+[pagination]
+pagerSize = 5
+
+[params]
+colorTheme = 'auto'
+colorThemeSwitcher = true
+
+[params.comment]
+[params.comment.fediverse]
+enable = true
+host = "bolha.us"
+user = "rwallan"
+
+[params.author]
+name = 'RWallan'
+email = '3am.richardwallan@gmail.com'
+
+[params.anubis2]
+social = [
+        {id="github", url="https://github.com/RWallan"},
+        {id="mastodon", url="https://bolha.us/@rwallan"},
+]
+
+[markup.highlight]
+style = 'catppuccin-mocha'
+
+[outputFormats]
+[outputFormats.RSS]
+mediatype = "application/rss+xml"
+baseName = "feed"

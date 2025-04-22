@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Music on Tempestade Mental do Richard</title>
+    <link>/tags/music/</link>
+    <description>Tempestade Mental do Richard (Music)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-BR</language>
+    
+      
+        <managingEditor>3am.richardwallan@gmail.com
+          
+            (RWallan)
+          
+        </managingEditor>
+      
+
+      
+    
+
+    
+    <lastBuildDate>Tue, 22 Apr 2025 00:11:37 +0000</lastBuildDate>
+    
+    <atom:link href="/tags/music/feed.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Eu quero participar de uma banda, mas não sei como</title>
+      <link>/posts/quero-uma-banda/</link>
+      <pubDate>Tue, 22 Apr 2025 00:11:37 +0000</pubDate>
+      <author>3am.richardwallan@gmail.com (RWallan)</author>
+      <guid>/posts/quero-uma-banda/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

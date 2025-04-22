@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Tempestade Mental do Richard</title>
+    <link>/tags/</link>
+    <description>Tempestade Mental do Richard (Tags)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-BR</language>
+    
+      
+        <managingEditor>3am.richardwallan@gmail.com
+          
+            (RWallan)
+          
+        </managingEditor>
+      
+
+      
+    
+
+    
+    <lastBuildDate>Tue, 22 Apr 2025 14:42:04 -0300</lastBuildDate>
+    
+    <atom:link href="/tags/feed.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>
