@@ -44,6 +44,10 @@
         {{ partial "post-pagination.html" . }}
     {{ end }}
 
+    {{ if not .Params.disableComments }}
+        {{ partial "comments.html" . }}
+    {{ end }}
+
     {{/*  When you use ```mermaid``, render-codeblock-mermaid.html is called and
         `.Store.Set "hasMermaid"` is executed.
         `.Store.Get "hasMermaid"` will return true and mermaid.js will be loaded.
