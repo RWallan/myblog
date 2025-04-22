@@ -2,7 +2,7 @@
 title = 'Quero participar de uma banda, mas não sei como'
 date = 2025-04-22T14:42:04-03:00
 tags = ['musica']
-id = ''
+id = '114383110597208429'
 +++
 
 ## De onde veio essa ideia
