@@ -1,4 +1,4 @@
-baseURL = 'https://https://rwallan.github.io/myblog/'
+baseURL = 'https://rwallan.github.io/myblog/'
 languageCode = 'pt-BR'
 title = 'Tempestade Mental do Richard'
 theme = 'anubis2'
@@ -15,12 +15,6 @@ pagerSize = 5
 [params]
 colorTheme = 'auto'
 colorThemeSwitcher = true
-
-[params.comment]
-[params.comment.fediverse]
-enable = true
-host = "bolha.us"
-user = "rwallan"
 
 [params.author]
 name = 'RWallan'
