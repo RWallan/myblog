@@ -5,6 +5,10 @@ theme = 'anubis2'
 defaultContentLanguage = 'pt'
 rssLimit = 30
 
+[caches]
+[caches.images]
+dir = ':cacheDir/images'
+
 [pagination]
 pagerSize = 5
 
