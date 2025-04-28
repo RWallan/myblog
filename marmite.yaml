@@ -1,0 +1,29 @@
+name: Tempestade Mental do Richard
+tagline: Um monte de coisa que se passa na minha cabeça
+url: https://rwallan.github.io/myblog
+pagination: 10
+menu:
+  - ["Tags", "tags.html"]
+  - ["Arquivo", "archive.html"]
+  - ["Autor", "authors.html"]
+  - ["Sobre", "about.html"]
+  - ["GitHub", "https://github.com/RWallan"]
+  - ["Feed", "index.rss"]
+
+toc: true
+
+default_date_format: "%A, %d %B %Y"
+
+default_author: RWallan
+authors:
+  RWallan:
+    name: Richard Wallan
+    avatar: https://github.com/RWallan.png
+    bio: Sou só eu mesmo.
+    links:
+      - ["Fediverse", "https://bolha.us/@rwallan"]
+      - ["GitHub", "https://github.com/RWallan"]
+
+extra:
+  colorscheme: "catppuccin"
+  fediverse_verification: https://bolha.us/@rwallan
