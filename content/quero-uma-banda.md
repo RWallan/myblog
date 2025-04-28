@@ -1,12 +1,9 @@
-+++
-title = 'Quero participar de uma banda, mas não sei como'
-date = 2025-04-22T14:42:04-03:00
-tags = ['musica']
-[comments]
-host = "bolha.us"
-username = "rwallan"
-id = 114383110597208429
-+++
+---
+date: 2025-04-22T14:42:04-03:00
+tags: musica
+---
+
+# Quero participar de uma banda, mas não sei como
 
 ## De onde veio essa ideia
 

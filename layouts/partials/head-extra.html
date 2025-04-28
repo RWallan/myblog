@@ -1,7 +1,0 @@
-<link href="https://bolha.us/rwallan" rel="me">
-<meta name="fediverse:creator" content="@rwallan@bolha.us">
-
-<meta property="og:title" content="{{ .Title }}">
-<meta property="og:type" content="{{ if .IsPage }}article{{ else }}website{{ end }}">
-<meta property="og:url" content="{{ .Permalink }}">
-<meta property="og:description" content="{{ with .Description }}{{ . }}{{ else }}{{if .IsPage}}{{ .Summary }}{{ else }}{{ with .Site.Params.description }}{{ . }}{{ end }}{{ end }}{{ end }}">
